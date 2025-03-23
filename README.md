@@ -2,3 +2,6 @@ These files parse data from tables in ATU format. The first one is a fleet numbe
 
 V. 4.0
 - added date and status features
+
+v 5.0 
+- skips empty rows; vin separated to a different file
